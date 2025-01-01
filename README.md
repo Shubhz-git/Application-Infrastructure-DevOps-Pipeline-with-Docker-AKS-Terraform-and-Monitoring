@@ -1,4 +1,4 @@
-# nodejs-devops-project
+# Application-Infrastructure-DevOps-Pipeline-with-Docker-AKS-Terraform-and-Monitoring
 The nodejs-devops-project  demonstrates the full lifecycle of deploying and managing a Node.js application in a cloud-native environment using modern tools and best practices. It integrates various DevOps concepts and tools to provide a scalable, automated, and monitored deployment pipeline for a simple Node.js web application.
 
 # Node.js DevOps Project
